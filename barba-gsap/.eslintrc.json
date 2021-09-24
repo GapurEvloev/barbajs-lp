@@ -37,12 +37,12 @@
     "func-call-spacing": [
       "error"
     ],
-    "indent": [
-      "error",
-      2, {
-        "SwitchCase": 1
-      }
-    ],
+    // "indent": [
+    //   "error",
+    //   2, {
+    //     "SwitchCase": 1
+    //   }
+    // ],
     "key-spacing": [
       "error"
     ],
@@ -55,10 +55,10 @@
         "beforeLineComment": true
       }
     ],
-    "linebreak-style": [
-      "error",
-      "unix"
-    ],
+    // "linebreak-style": [
+    //   "error",
+    //   "unix"
+    // ],
     "no-console": [
       "off"
     ],
